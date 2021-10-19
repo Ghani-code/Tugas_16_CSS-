@@ -1,0 +1,78 @@
+.container {
+  column-count: 3;
+  column-gap: 434px;
+  text-align: center;
+}
+
+.boxs {
+  display: flex;
+  justify-content: center;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.square {
+  padding: 15px;
+  width: 130px;
+  text-align: center;
+}
+.box1 {
+  background-color: aqua;
+}
+.box2 {
+  background-color: rgb(81, 197, 66);
+}
+.box3 {
+  background-color: rgb(37, 130, 218);
+}
+.box4 {
+  background-color: rgb(186, 10, 230);
+}
+.box5 {
+  background-color: rgb(38, 43, 43);
+}
+.box6 {
+  background-color: rgb(189, 192, 10);
+}
+.box7 {
+  background-color: rgb(248, 170, 0);
+}
+.box8 {
+  background-color: rgb(255, 0, 0);
+}
+.box9 {
+  background-color: rgb(160, 172, 172);
+}
+.box10 {
+  background-color: rgb(121, 133, 133);
+}
+.box11 {
+  background-color: aqua;
+}
+.box12 {
+  background-color: rgb(53, 185, 104);
+}
+.box13 {
+  background-color: rgb(0, 174, 255);
+}
+.box14 {
+  background-color: rgb(225, 0, 255);
+}
+.box15 {
+  background-color: rgb(52, 56, 56);
+}
+.box16 {
+  background-color: rgb(251, 255, 0);
+}
+.box17 {
+  background-color: rgb(255, 187, 0);
+}
+.box18 {
+  background-color: rgb(255, 38, 0);
+}
+.box19 {
+  background-color: aqua;
+}
